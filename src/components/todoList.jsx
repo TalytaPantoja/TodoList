@@ -1,4 +1,4 @@
-import TodoItem from './TodoItem';
+import TodoItem from './todoItem';
 
 function TodoList({ todos, toggleTodo, removeTodo }) {
   return (
